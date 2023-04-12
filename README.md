@@ -10,6 +10,7 @@
 ### and smaller
 ###### and smallest
 
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
@@ -41,6 +42,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/218594143-e60462b6-9f2a-4fa3-80de-063ac5429aab.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+![Image of Yodacat](https://octodex.github.com/images/yaktocat.png)
 
 </details>
 
@@ -66,7 +68,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
+```
+![Image of Yodacat](https://octodex.github.com/images/yaktocat.png)
 
+```
 ```md
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
